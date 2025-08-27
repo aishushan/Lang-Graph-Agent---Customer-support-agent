@@ -89,6 +89,21 @@ Payload storage and updates
 Final output generation
 
 RUN DEMO CASES 
+The system includes three test cases:
+Critical Issue - Production system down (escalates to senior support)
+Clarification Needed - Short query requiring more information
+Resolved Case - Password reset question (automatically resolved)
 <img width="1763" height="743" alt="image" src="https://github.com/user-attachments/assets/36a822ce-128e-4ed4-abf1-5548604e3da9" />
+
+🎨 Customization
+To customize the workflow:
+
+Modify stage logic in agent.py
+
+Add new abilities to MCP servers in mcp_clients.py
+
+Update the configuration in config.yaml
+
+Extend the state schema in state_schema.py
 
 
