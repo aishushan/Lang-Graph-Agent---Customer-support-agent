@@ -4,7 +4,7 @@
 
 A sophisticated customer support workflow automation system built with LangGraph, MCP (Model Context Protocol) servers, and Gradio for interactive demonstration.
 
-🚀 Features
+**Features**
 Multi-stage Workflow: 11 distinct stages for comprehensive ticket processing
 
 MCP Integration: Three specialized MCP servers (COMMON, ATLAS, STATE)
@@ -16,8 +16,8 @@ Gradio UI: Web interface for testing and demonstration
 Smart Decision Making: AI-powered escalation and resolution logic
 
 Knowledge Base Integration: Automated solution retrieval
-
-📋 Workflow Stages
+**
+Workflow Stages**
 INTAKE - Accept and validate incoming support tickets
 
 UNDERSTAND - Parse requests and extract entities
