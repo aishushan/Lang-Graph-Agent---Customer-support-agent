@@ -1,5 +1,5 @@
-# Lang-Graph-Agent---Customer-support-agent
-<img width="1674" height="788" alt="image" src="https://github.com/user-attachments/assets/bc3b4d61-a9d0-481f-8268-76f18a80e2bd" />
+# Lang-Graph-Agent: Customer support agent
+<img width="959" height="115" alt="image" src="https://github.com/user-attachments/assets/ca4f4ae8-8088-4604-84f3-36a4a3812ed9" />
 
 
 A sophisticated customer support workflow automation system built with LangGraph, MCP (Model Context Protocol) servers, and Gradio for interactive demonstration.
@@ -48,22 +48,14 @@ cd customer-support-agent
 2. Install dependencies:
 pip install -r requirements.txt
 
-📁 Project Structure
-customer-support-agent/
-├── agent.py              # Main LangGraph agent implementation
-├── mcp_clients.py        # MCP server clients (COMMON, ATLAS, STATE)
-├── state_schema.py       # Pydantic models and type definitions
-├── config.yaml           # Workflow configuration
-├── app.py                # Gradio web interface
-├── requirements.txt      # Python dependencies
-└── README.md             # This file
 
 🚦 Quick Start
 Option 1: Web Interface
 python app.py
 Then open http://localhost:7860 in your browser.
 
-<img width="1592" height="585" alt="image" src="https://github.com/user-attachments/assets/da123801-f255-41ab-b96b-bb38b38caf19" />
+<img width="1672" height="667" alt="image" src="https://github.com/user-attachments/assets/023e830a-5e6e-4ffd-a1dd-1383741edc5a" />
+
 
 
 Option 2: Command Line
