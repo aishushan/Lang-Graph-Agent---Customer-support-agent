@@ -1,4 +1,6 @@
 # Lang-Graph-Agent---Customer-support-agent
+<img width="1674" height="788" alt="image" src="https://github.com/user-attachments/assets/bc3b4d61-a9d0-481f-8268-76f18a80e2bd" />
+
 
 A sophisticated customer support workflow automation system built with LangGraph, MCP (Model Context Protocol) servers, and Gradio for interactive demonstration.
 
